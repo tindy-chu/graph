@@ -1,5 +1,10 @@
 # graph
 
+<img width="180px" src="https://github.com/tindyChu/graph/blob/main/graph.png">
+
+- a. Write a function that returns all the possible paths between A­-H.
+- b. Write a function that returns the least number of hops (shortest path) between A­-H.
+
 ## Quick start
 
 #### &nbsp;&nbsp;&nbsp;Run by docker
